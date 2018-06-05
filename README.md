@@ -5,3 +5,6 @@ LCD y un sensor de temperatura para poder calcular la temperatura del medio ambi
 
 En este proyecto se hace la conexión con Java para poder mandar mensajes al LCD y en
 arduino solo para mandar la temperatura que calcula el sensor.
+
+Lo que muestra el LCD es un mensaje que el usuario escribe en una interfaz en Java
+la temperatura y la hora.
